@@ -34,8 +34,8 @@ Visit [Local Host](http://localhost/)
 
 ## 📍 Screenshots
 
-### Trailer Screen
-![](https://github.com/muditgupta68/5-cursor/Screenshots/design.png?raw=false)
+![](https://github.com/Tushar-goyal-2712/5-cursor/blob/292f59c94bef8cefbf35fbb6033f1b71ec49e69a/Screenshots/design.png)
+
 
 ## 📍 Deployment
 
