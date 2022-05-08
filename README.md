@@ -35,35 +35,12 @@ Visit [Local Host](http://localhost/)
 ## 📍 Screenshots
 
 ### Trailer Screen
-![trailer screen](https://github.com/muditgupta68/Netflix_Clone/blob/images/src/trailerImage.png?raw=false)
+![](https://github.com/muditgupta68/5-cursor/Screenshots/design.png?raw=false)
 
 ## 📍 Deployment
 
-The project is deployed on Firebase
-
-So,
-
-The steps involved as follows:
-
-- login the firebase database with your respective credentials
-```bash
-  firebase login
-
-```
-- Inititalising and building up the project in build folder for efficiency 
-
-```bash
-  firebase init
-  npm run build
-```
-- Deploying the files into the database
-```bash
-  firebase deploy
-```
-## 🛠 Optimizations
-
-- We can add up AI/ML concept models to enrich the web app with recommendation features of movies & TV-shows to the user.
+The project is deployed on Netlify
 
 ## 👨‍💻 Feedback
 
-If you have any feedback, please reach out to us at muditgupta1086@gmail.com
+If you have any feedback, please reach out to us at tushargoyal2712@gmail.com
