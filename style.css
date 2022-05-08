@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000;
+}
+
+.pointer {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 25px;
+    height: 25px;
+    background: rgba(255, 255, 255, 0.1);
+    border: 2px solid rgba(255, 255, 255, 0.1);
+    border-radius: 50%;
+    pointer-events: none;
+    background-size: cover;
+    box-sizing: border-box;
+    transition: 0.5s;
+}
+#pointer1{
+    transition: 0.05s;
+}
+#pointer2{
+    transition: 0.1s;
+}
+#pointer3{
+    transition: 0.15s;
+}
+#pointer4{
+    transition: 0.2s;
+}
+#pointer5{
+    transition: 0.25s;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#name{
+    cursor: pointer;
+    text-align: center;
+    font-size: 5rem;
+    color: white;
+    text-decoration: none;
+}
+a:hover + .pointer{
+    display: none;
+}
